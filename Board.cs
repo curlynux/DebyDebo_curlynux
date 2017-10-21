@@ -36,6 +36,7 @@ namespace Source
         {
 
         }
+        // I NEED YOUUUU !!!
         public override String ToString()
         {
             String s = "";
@@ -46,10 +47,7 @@ namespace Source
                 {
                    
                     s += ".";
-                    if (rows == 1)
-                    {
-                        s += "." + "X"; 
-                    }
+                   
                 }
                 s += "\n";
             }
